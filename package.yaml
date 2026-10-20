@@ -1,0 +1,13 @@
+name: bio-rust
+version: 0.1.0
+homepage: null
+synopsis: Rust implementations of the bio readers, writers and coordinate mappings
+description: Implements the functions specified by bio in Rust, with gzip support through flate2.
+category: bioinformatics
+license: MIT
+author: "Zebulun Arendsee"
+maintainer: "z@morloc.io"
+github: null
+bug-reports: null
+rust-deps:
+  flate2: "1"

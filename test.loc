@@ -1,0 +1,5 @@
+--' The bio test suite against bio-rust
+module test-bio-rust (test, testReference)
+
+import bio.test (test, testReference)
+import bio-rust
